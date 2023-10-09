@@ -1,0 +1,39 @@
+{
+  ItemList: [
+    {
+      "itemId": 230,
+      "loggedItemId": "2043",
+      "description": "Milk"
+    },
+    {
+      "itemId": 240,
+      "loggedItemId": "2053",
+      "description": "Bread"
+    },
+    {
+      "itemId": 250,
+      "loggedItemId": "2063",
+      "description": "Cheese"
+    },
+    {
+      "itemId": 260,
+      "loggedItemId": "2073",
+      "description": "Oats"
+    },
+    {
+      "itemId": 270,
+      "loggedItemId": "2083",
+      "description": "Chicken"
+    },
+    {
+      "itemId": 280,
+      "loggedItemId": "2093",
+      "description": "Cereal"
+    },
+    {
+      "itemId": 290,
+      "loggedItemId": "2103",
+      "description": "Newspaper"
+    },
+  ]
+}
